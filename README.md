@@ -25,3 +25,14 @@ Negatives:
 Positives:
 > I really like the cheat sheet pdf . It summarizes the commands and the uses well. I considering making my own so I am happy it was provided. It makes me confidence to have it to refer to.
 > The youtube video also summarized all the Git work done so far nicely. It made it seem much easier and less complicated than it had seem to me.
+
+
+Week 0 : Introduction To Programming With Python
+Topics : Indoor Voice, Playback Speed, Making Faces, Einstein and Tip Calculator
+
+Negatives:
+> I an unfamiliar still with using Github and the whole github userface. It doesn't come nauturally like VS Code and Codespaces.
+
+Positives:
+> The lecturer David Malan explains python programming in a fun manner.
+> I found all the questions straight forward and easy to answer.
