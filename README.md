@@ -27,7 +27,7 @@ Positives:
 > The youtube video also summarized all the Git work done so far nicely. It made it seem much easier and less complicated than it had seem to me.
 
 
-Week 0 : Introduction To Programming With Python
+Week 2 : Introduction To Programming With Python (Week 0)
 Topics : Indoor Voice, Playback Speed, Making Faces, Einstein and Tip Calculator
 
 Negatives:
