@@ -27,7 +27,10 @@ Positives:
 > The youtube video also summarized all the Git work done so far nicely. It made it seem much easier and less complicated than it had seem to me.
 
 
-Week 2 : Introduction To Programming With Python (Week 0)
+
+
+
+Week 1 : Introduction To Programming With Python (Week 0)
 Topics : Indoor Voice, Playback Speed, Making Faces, Einstein and Tip Calculator
 
 Negatives:
@@ -36,3 +39,16 @@ Negatives:
 Positives:
 > The lecturer David Malan explains python programming in a fun manner.
 > I found all the questions straight forward and easy to answer.
+
+
+
+
+
+Week 2 : Introduction To Programming With Python (Week 1)
+Topics : Bank, deep, extensions, interpreter and meal
+
+Negatives:
+> I am slightly nervous of the platforms I am using github and codespaces. I am not comfortable with using vs code and uploading my code to github. I believe I will end up using codespaces.
+
+Positives:
+> The pre bootcamp , bootcamp itself and the python practice (hankerank) I have done has put me a favourable position. I find myself enjoying the questions and able to do successfully thus far.
