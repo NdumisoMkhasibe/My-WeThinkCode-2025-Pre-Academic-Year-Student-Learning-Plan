@@ -52,3 +52,16 @@ Negatives:
 
 Positives:
 > The pre bootcamp , bootcamp itself and the python practice (hankerank) I have done has put me a favourable position. I find myself enjoying the questions and able to do successfully thus far.
+
+
+
+
+
+Week 2 : Introduction To Programming With Python (Week 2)
+Topics : camelCase, Coke, twttr, plates and nutrition
+
+Negatives:
+> I am worried at making my preparation repository public. I fear people may search my files and copy them.
+
+Positives:
+> I feel excited to review my work with my mentor tommorrow on our biweekly meetings. I believe I will be able to get clarity and real gauge of how far I am with my preparation.
