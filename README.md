@@ -65,3 +65,18 @@ Negatives:
 
 Positives:
 > I feel excited to review my work with my mentor tommorrow on our biweekly meetings. I believe I will be able to get clarity and real gauge of how far I am with my preparation.
+
+
+
+
+
+Week 3 : Introduction To Programming With Python (Week 3)
+Topics : fuel, grocery, outdated and taqueria
+
+Negatives:
+> I am still unsure if we should be uploading our work on gitlab or github. Our performance manager said he will respond to us.
+> I am worried about the financial implications of persueing my career.
+
+Positives:
+> So far the questions are understandable and slightly easier than the bootcamp questions I did before.
+> I believe this course has been very informative so far.
